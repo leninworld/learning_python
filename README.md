@@ -1,4 +1,4 @@
-# Learning Python 101
+# Learning Python Basics
 
 - Data Structures - Set, List, Tuple, Dictionary, Array
 
